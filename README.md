@@ -7,7 +7,7 @@
 - 2 yıldır bot ve website kodlama ile uğraşıyorum. Son zamanlarda arduino projelerine merak saldım.
 - Kişisel [Websiteme](https://www.suleywman.cf/) göz atabilirsin.
 
-<h3><img src="https://cdn.discordapp.com/emojis/840014696027652167.gif?size=96" width="30px"> Sosyal medya hesaplarım!</h3>
+<h3><img src="https://cdn.discordapp.com/emojis/840014696027652167.gif?size=96" width="20px"> Sosyal medya hesaplarım!</h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/512316280129323022)
 [![Discord Badge](https://img.shields.io/badge/Spotify-1ED761.svg?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white)](https://www.suleywman.cf/spotify)
