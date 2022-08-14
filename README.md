@@ -5,8 +5,8 @@
 - I am [Süleyman](https://discord.com/users/512316280129323022), I am interested in software and robotic coding.
 - I have been dealing with bot and website coding for 2 years. I've been interested in arduino projects lately.
 - I am licensed Chess Player.
-- My personal [website](https://www.suleywman.cf/).
-- My Discord [bot](https://discord.com/oauth2/authorize?client_id=842764627066617856&scope=bot%20applications.commands&permissions=1099780451582)
+- My personal [WEBSITE](https://www.suleywman.cf/).
+- My Discord [BOT](https://discord.com/oauth2/authorize?client_id=842764627066617856&scope=bot%20applications.commands&permissions=1099780451582).
 
 <h3><img src="https://cdn.discordapp.com/emojis/840014696027652167.gif?size=96" width="20px"> Sosyal medya hesaplarım!</h3>
 
