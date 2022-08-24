@@ -11,8 +11,6 @@
 <h3><img src="https://cdn.discordapp.com/emojis/663699720257929236.webp?size=96&quality=lossless" width="30px"> My social media accounts!</h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/512316280129323022)
-[![Discord Badge](https://img.shields.io/badge/Spotify-1ED761.svg?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white)](https://www.suleywman.cf/spotify)
-[![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://www.suleywman.cf/github)
 [![Discord Badge](https://img.shields.io/badge/Instagram%20-8a3ab9.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/suleywman/)
 [![Discord Badge](https://img.shields.io/badge/Twitter%20-1DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/suleywman)
 
