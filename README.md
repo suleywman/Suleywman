@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sTheHunter&label=Profile%20views&color=9f9f9f&style=flat" alt="Suleywman" /> </p>
 
-<h3>💻 Hello!</h3> 
+## 💻 Hello! width="30px">
 - I am [Süleyman](https://discord.com/users/512316280129323022), I'm Full Stack Developer.
 - I develop Websites and Discord bots.
 - I am also a chess player.
