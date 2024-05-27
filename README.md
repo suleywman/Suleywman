@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sTheHunter&label=Profile%20views&color=9f9f9f&style=flat" alt="Suleywman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sTheHunter&label=Profile%20views&color=000000&style=flat" alt="Suleywman" /> </p>
 
 ## 💻 Hello!
 - I am [Süleyman](https://discord.com/users/512316280129323022), I'm Full Stack Developer.
