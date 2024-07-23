@@ -8,7 +8,8 @@
 <div align="center">
 <h3>Contact</h3>
 <a href="https://discord.com/users/512316280129323022" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://twitter.com/suleywman" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://twitter.com/suleywman" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://www.chess.com/member/suleywman" target"blank_"><img src="https://img.shields.io/badge/Chess.com%20-111111.svg?&style=for-the-badge&logo=Chess.com&logoColor=white"></a>
 </div>
 
 
